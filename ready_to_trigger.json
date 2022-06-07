@@ -1,12 +1,12 @@
 {
   "data": [
   			{
-			"instrument_token": 123, "strike": 36000, "LTP": 97.8, "sell_trigger_price": 94.2, "option_type": "CE", "ready_to_enter_wait_start_time": "2022-06-06T13:29:00"
+			"index": "2022-06-06T13:29:00", "ce_close": 97.55, "pe_close": 97.8, "upper_threshold": 101.85000000000001, "lower_threshold": 92.14999999999999, "total_premium": 195.35, "current_pnl": -1.250000000000001
 			}, 
 
-			{
-			"instrument_token": 124, "strike": 34500, "LTP": 94.3, "sell_trigger_price": 89.1, "option_type": "PE", "ready_to_enter_wait_start_time": "2022-06-06T09:29:00"
-			},
+			{"index": "2022-06-06T13:30:00", "ce_close": 98.05, "pe_close": 97.6, "upper_threshold": 101.85000000000001, "lower_threshold": 92.14999999999999, "total_premium": 195.64999999999998, "current_pnl": -8.750000000000002
+  			}
   		]
+
 
  }
