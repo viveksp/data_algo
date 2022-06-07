@@ -1,1 +1,11 @@
-{"data": [{"index": 0, "instrument_token": 10412290, "trade_type": "PE", "strike": 34300.0, "option_type": "PE", "entry_price": 83.65, "entry_time": "2022-06-07T09:19:30.275089+05:30", "ltp": 110.45, "exit_price": 110.45, "exit_time": "2022-06-07T11:06:48.349722+05:30", "points_collected": -26.8, "cummulative_pnl": -532.5, "current_status": "EXIT_ROLLOVER_IN_LOSS_PE"}, {"index": 1, "instrument_token": 10433282, "trade_type": "CE", "strike": 35700.0, "option_type": "CE", "entry_price": 97.9, "entry_time": "2022-06-07T11:06:46.504073+05:30", "ltp": 93.85, "exit_price": 93.85, "exit_time": "2022-06-07T15:15:00.016902+05:30", "points_collected": 4.05, "cummulative_pnl": -568.75, "current_status": "EXIT_EOD"}]}
+{"data": 
+
+[
+
+{"instrument_token": 123, "strike": 36000, "LTP": 97.8, "sell_trigger_price": 94.2, "option_type": "CE", "ready_to_enter_wait_start_time": "22022-06-07T09:19:30.275089+05:30"}, 
+
+{"instrument_token": 124, "strike": 34500, "LTP": 94.3, "sell_trigger_price": 89.1, "option_type": "PE", "ready_to_enter_wait_start_time": "2022-06-07T09:19:30.275089+05:30"}
+
+]
+
+}
