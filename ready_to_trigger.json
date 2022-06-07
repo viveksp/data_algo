@@ -1,12 +1,1 @@
-{
-  "data": [
-  			{
-			"index": "2022-06-06T13:29:00", "ce_close": 97.55, "pe_close": 97.8, "upper_threshold": 101.85000000000001, "lower_threshold": 92.14999999999999, "total_premium": 195.35, "current_pnl": -1.250000000000001
-			}, 
-
-			{"index": "2022-06-06T13:30:00", "ce_close": 98.05, "pe_close": 97.6, "upper_threshold": 101.85000000000001, "lower_threshold": 92.14999999999999, "total_premium": 195.64999999999998, "current_pnl": -8.750000000000002
-  			}
-  		]
-
-
- }
+{"data": [{"index": 0, "instrument_token": 10414338, "trade_type": "PE", "strike": 34500.0, "option_type": "PE", "entry_price": 98.3, "entry_time": "2022-06-06T13:29:06.324057+05:30", "ltp": 97.6, "exit_price": NaN, "exit_time": "NaT", "points_collected": 0.7, "cummulative_pnl": -8.75, "current_status": "LIVE"}, {"index": 1, "instrument_token": 10435842, "trade_type": "CE", "strike": 36200.0, "option_type": "CE", "entry_price": 97.0, "entry_time": "2022-06-06T13:29:40.477677+05:30", "ltp": 98.05, "exit_price": NaN, "exit_time": "NaT", "points_collected": -1.05, "cummulative_pnl": -8.75, "current_status": "LIVE"}]}
